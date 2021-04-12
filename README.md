@@ -1,1 +1,1 @@
-My Awesome window manager configuration
+My Awesome window manager configuration for arco linux
